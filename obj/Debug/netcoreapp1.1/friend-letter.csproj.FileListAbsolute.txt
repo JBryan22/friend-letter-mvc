@@ -1,0 +1,8 @@
+/Users/Guest/friend-letter/bin/Debug/netcoreapp1.1/friend-letter.deps.json
+/Users/Guest/friend-letter/bin/Debug/netcoreapp1.1/friend-letter.runtimeconfig.json
+/Users/Guest/friend-letter/bin/Debug/netcoreapp1.1/friend-letter.runtimeconfig.dev.json
+/Users/Guest/friend-letter/bin/Debug/netcoreapp1.1/friend-letter.dll
+/Users/Guest/friend-letter/bin/Debug/netcoreapp1.1/friend-letter.pdb
+/Users/Guest/friend-letter/obj/Debug/netcoreapp1.1/friend-letter.AssemblyInfo.cs
+/Users/Guest/friend-letter/obj/Debug/netcoreapp1.1/friend-letter.dll
+/Users/Guest/friend-letter/obj/Debug/netcoreapp1.1/friend-letter.pdb
